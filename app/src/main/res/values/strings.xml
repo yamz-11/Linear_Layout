@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Linear_Layout</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="bsignin">Sign-In</string>
+    <string name="button">Button</string>
+    <string name="string_button">Sign-In</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="imageView2">imageView2</string>
+    <string name="string_imageview2" />
+</resources>
